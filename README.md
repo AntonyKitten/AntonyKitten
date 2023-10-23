@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @AntonyKitten
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on hehe
-- 📫 How to reach me: Discord: antonyxda
+Hi, I'm Antony.
+Reach me! Discord: antonyxda
